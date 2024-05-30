@@ -7,7 +7,7 @@ Fetch and display emails
 Process email content
 
 ## Usage
-Save credetials in a token.json file in order to have acces to your mail box.
+Save credentials in a token.json file to have access to your mailbox.
 
 ## Contributing
 Contributions are welcome! Please fork this repository and submit pull requests.
